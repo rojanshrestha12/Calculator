@@ -1,1 +1,2 @@
-#make calculator buddy
+def subtract(a,b):
+    return a-b
