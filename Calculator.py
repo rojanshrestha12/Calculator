@@ -1,1 +1,2 @@
-#make calculator buddy
+def multiplication(a,b):
+    return (a*b)
